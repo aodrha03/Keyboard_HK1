@@ -40,4 +40,9 @@ The aforementioned non-commercial restrictions do not apply to the original crea
 * **[Hanam Youth Center]** @hanam0924 - Associated Organization
 
 ## Credits & Acknowledgments
-This project was fully planned and developed by [LEE MYUNG GYUN] Special thanks to [SHIM YOUNG DAE] at [Hanam Youth Center] for providing the material support and sponsorship that made this project possible.
+
+- **Inspiration**: This project was inspired by the '[Security Keyboard](https://www.youtube.com/watch?v=C3MN4s82Zx8)' concept by [Geekble](https://www.youtube.com/@geekble_kr).
+
+- **Independent Development**: While the concept was inspired by Geekble, all hardware designs (.f3d) and source codes (.ino) in this repository were developed independently from scratch by the author.
+
+- **Special Thanks**: This project was fully planned and developed by [LEE MYUNG GYUN] Special thanks to [SHIM YOUNG DAE] at [Hanam Youth Center] for providing the material support and sponsorship that made this project possible.

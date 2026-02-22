@@ -39,5 +39,5 @@ The aforementioned non-commercial restrictions do not apply to the original crea
 * **[SHIM YOUNG DAE]** @youngdaeshim - Project Sponsor
 * **[Hanam Youth Center]** @hanam0924 - Associated Organization
 
-## 🙌 Credits & Acknowledgments
+## Credits & Acknowledgments
 This project was fully planned and developed by [LEE MYUNG GYUN] Special thanks to [SHIM YOUNG DAE] at [Hanam Youth Center] for providing the material support and sponsorship that made this project possible.

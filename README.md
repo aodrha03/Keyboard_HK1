@@ -41,7 +41,7 @@ The aforementioned non-commercial restrictions do not apply to the original crea
 
 ## Credits & Acknowledgments
 
-- **Inspiration**: This project was inspired by the '[Security Keyboard](https://www.youtube.com/watch?v=C3MN4s82Zx8)' concept by [Geekble](https://www.youtube.com/@geekble_kr).
+- **Inspiration**: This project was inspired by the '[Security Keyboard](https://www.youtube.com/watch?v=C3MN4s82Zx8)' concept by [Geekble](https://geekble.com).
 
 - **Independent Development**: While the concept was inspired by Geekble, all hardware designs (.f3d) and source codes (.ino) in this repository were developed independently from scratch by the author.
 

@@ -35,9 +35,9 @@ Commercial use of this project is strictly prohibited under the CC BY-NC-SA 4.0 
 ### License Exceptions
 The aforementioned Non-Commercial (NC) and ShareAlike (SA) restrictions do not apply to the original creator, the sponsor, and the associated organization. The following parties are granted explicit permission to use, modify, and exercise full commercial rights over this project without the obligation to distribute derivative works under the same terms:
 
-* **[LEE MYUNG GYUN]** @aodrha03 - Original Creator & Lead Developer
-* **[SHIM YOUNG DAE]** @youngdaeshim - Project Sponsor
-* **[Hanam Youth Center]** @hanam0924 - Associated Organization
+* **[LEE MYUNG GYUN]** [@aodrha03](https://github.com/aodrha03) - Original Creator & Lead Developer
+* **[SHIM YOUNG DAE]** [@youngdaeshim](https://github.com/youngdaeshim) - Project Sponsor
+* **[Hanam Youth Center]** [@hanam0924](https://github.com/hanam0924) - Associated Organization
 
 * **Last Updated:** 2026-02-23  
 **Current License:** CC BY-NC-SA 4.0 (Applied since Feb 23, 2026)
